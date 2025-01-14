@@ -4,7 +4,6 @@
   "homepage": "https://talonvoice.com",
   "license": "Proprietary",
   "url": "https://talonvoice.com/dl/latest/talon-windows.zip",
-  "extract_dir": "talon-windows",
   "bin": [
     "talon.exe"
   ],
