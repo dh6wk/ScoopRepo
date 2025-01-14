@@ -1,21 +1,21 @@
 {
-"version": "latest",  
-"description": "Talon Voice is a software platform for voice-driven computing, including dictation, scripting, and computer control.",
+  "version": "latest",
+  "description": "Talon Voice is a software platform for voice-driven computing, including dictation, scripting, and computer control.",
   "homepage": "https://talonvoice.com",
   "license": "Proprietary",
   "url": "https://talonvoice.com/dl/latest/talon-windows.zip",
   "extract_dir": "talon-windows",
   "bin": [
-    "talon-windows/talon.exe"
+    "talon.exe"
   ],
   "shortcuts": [
     [
-      "talon-windows/talon.exe",
+      "talon.exe",
       "Talon Voice"
     ]
   ],
   "persist": [
-    "talon-windows/user",
-    "talon-windows/data"
+    "user",
+    "data"
   ]
 }
