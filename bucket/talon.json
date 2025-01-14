@@ -13,7 +13,4 @@
       "Talon Voice"
     ]
   ],
-  "persist": [
-    "%APPDATA%\\Talon"
-  ]
 }
