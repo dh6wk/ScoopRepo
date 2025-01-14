@@ -14,8 +14,6 @@
     ]
   ],
   "persist": [
-    "user",
-    "data",
-    "$env:APPDATA\\Talon"
+    "$env.APPDATA\\Talon"
   ]
 }
